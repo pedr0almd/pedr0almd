@@ -15,4 +15,4 @@
     <img aligh="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br>
 
-Sou estudante de Desenvolvimento de Software Multiplataforma, o curso no qual sou apaixonado. Busco criar uma carreira na área como Front-end, focando em tecnologias como: HTML5, CSS3, JS, ANGULAR e entre outras.
+Sou estudante de Desenvolvimento de Software Multiplataforma, o curso no qual sou apaixonado. Busco criar uma carreira na área como Front-end, focando em tecnologias como: HTML5, CSS3, JS, REACT e entre outras.
