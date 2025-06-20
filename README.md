@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A915&width=500&lines=Ol%C3%A1%2C+sou+o+Pedro+Paix%C3%A3o" alt="Typing SVG" /></a>
-<p>Estudante de Desenvolvimento de Software Multiplataforma, pela <a href="https://www.cps.sp.gov.br/fatec/">Fatec</a>. </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78202&width=500&lines=Ol%C3%A1%2C+sou+o+Pedro+Paix%C3%A3o!" alt="Typing SVG" /></a>
 
 ##
 
